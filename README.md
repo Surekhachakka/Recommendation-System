@@ -31,5 +31,9 @@ Matrix factorization concepts
 
 How to evaluate recommender systems (RMSE)
 
+**OUTPUT**
+<img width="690" height="67" alt="Image" src="https://github.com/user-attachments/assets/2144e9db-a472-4a43-b7c6-013e6a903092" />
+
+
 
 
